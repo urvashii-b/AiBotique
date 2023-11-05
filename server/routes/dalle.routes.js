@@ -13,7 +13,7 @@ const config = new Configuration({
 const openai = new OpenAIApi(config);
 
 router.route("/").get((req, res) => {
-    res.status(200).json({ message: "Hello from Dall-e Routes" });
+    res.status(200).json({ message: "Hello from ArBotique" });
 });
 
 router.route("/").post(async (req, res) => {
