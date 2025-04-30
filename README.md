@@ -1,6 +1,8 @@
 # ArBotique - AR & AI Fashion Store
 
-Welcome to the ArBotique project, a part of the Kodikon Hackathon. ArBotique is an AR and AI Fashion Store with a focus on AI-powered 3D shirt generation.
+Welcome to the ArBotique project, a part of the Kodikon Hackathon (TOP 10). ArBotique is an AR and AI Fashion Store with a focus on AI-powered 3D shirt generation.
+
+![sample_home_page](https://github.com/user-attachments/assets/34fc756b-a56f-47ae-b672-e61f72931bfe)
 
 ## This is the AI part of the project.
 
